@@ -1,5 +1,7 @@
 ### EX9 Preprocessing on Twitter Data using Rapidminer
-### DATE: 13-04-2024
+### DATE: 15-04-2024
+### NAME: A K MOHAN RAJ
+### REG NO: 212221230064
 
 ### AIM: To implement preprocessing technique on Twitter Data using Rapidminer
 ### Description: 
